@@ -6,7 +6,7 @@
   background-image: url(poker.jpg);
   height: 350px;
   color: white;
-  border: 
+  border:
 
 }
 #card p {
@@ -23,4 +23,12 @@
 #rules {
   padding: 20px;
 
+}
+body {
+  background-image: url(3.jpg);
+}
+.card {
+  background: transparent;
+  font-weight: bold;
+  border: none;
 }
